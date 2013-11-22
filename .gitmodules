@@ -1,3 +1,6 @@
 [submodule "user_guide"]
 	path = user_guide
 	url = git@github.com:Rocchang/subtest.git
+[submodule "test"]
+	path = test
+	url = git@github.com:shine-it/auto_invoice.git
